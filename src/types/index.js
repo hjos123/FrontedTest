@@ -1,0 +1,3 @@
+export const LOGIN_EXITOSO = "LOGIN_EXITOSO";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const VALIDADO_EXITOSO = "VALIDADO_EXITOSO";
